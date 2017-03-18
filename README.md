@@ -5,8 +5,7 @@ Making it easy to export Font Awesome icon names to a JSON file, ideal for use w
 
 * Clone the repo
 * Run `node index.js`
-
-A file named `icons.json` will appear in the repository folder.
+* A file named `icons.json` will appear in the repository folder.
 
 ## Future Improvements
 
