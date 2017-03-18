@@ -1,0 +1,11 @@
+{
+  "name": "font-awesome-updater",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Mayyay/font-awesome-updater.git",
+  "author": "May <himayyay@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^3.8.2"
+  }
+}
